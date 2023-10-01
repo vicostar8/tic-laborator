@@ -1,0 +1,11 @@
+.container_mainDiv{
+  background-color: var(--primary-color);
+  box-shadow: 0px 0px 10px 10px var(--primary-shadow-color);
+
+  background-image: url("./images/backgroundImg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+

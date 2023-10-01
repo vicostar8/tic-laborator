@@ -1,0 +1,42 @@
+
+/* NAVBAR MAINDIV */
+
+.navBar_mainDiv{
+}
+
+/* ICON */
+.navBar_icon{
+    color: var(--primary-text-color);
+}
+
+/* MENU ITEMS LIST */
+.navBar_menuItem {
+        text-decoration: none;
+        color: var(--primary-text-color);
+        font-weight: var(--fw-bold);
+        position: relative;
+}
+
+.navBar_menuItem:hover{
+    cursor: pointer;
+}
+
+.navBar_menuItem::after{
+    content: "";
+    position: absolute;
+    background-color: var(--primary-text-color);
+
+    height: 3px;
+    width: 0;
+
+    left: 0;
+    bottom: -2px;
+
+    transition: 0.5s;
+
+    /* z-index: 0; */
+}
+
+.navBar_menuItem:hover::after{
+    width: 100%;
+}

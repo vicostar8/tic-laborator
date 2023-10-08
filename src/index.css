@@ -12,14 +12,17 @@
   --fw-bold: 700;
 
   /* --primary-color: #003464; */
-  --primary-color: #f3aa92;
-  --secondary-color: #004F97;
-  --third-color: #005aad;
-  --fourth-color: #80c1ff;
+  --primary-color: #6f8197;
+  --secondary-color: #1c375b;
+  --third-color: #ecebeb;
+  --fourth-color: #d2544a;
+  --fifth-color: #cd4236;
 
-  --primary-text-color: #fefefe;
-
-  --primary-shadow-color: #b18c80;
+  --primary-shadow-color: #404750;
+  --secondary-shadow-color: #182536;
+  --third-shadow-color: #b4b4b4;
+  --fourth-shadow-color: #793c39;
+  --fifth-shadow-color: #94413a;
 
   /* COMPLEMENTARY COLORS */
   --complementary-color: #643000;
@@ -153,6 +156,17 @@ svg {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+
+.pos-c{
+  display: flex;
+  justify-content: center;
+}
+
+.pos-c-cc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ORIGINAL WHEN STARTING A PROJECT */

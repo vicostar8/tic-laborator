@@ -6,13 +6,13 @@
 
 /* ICON */
 .navBar_icon{
-    color: var(--primary-text-color);
+    color: var(--third-color);
 }
 
 /* MENU ITEMS LIST */
 .navBar_menuItem {
         text-decoration: none;
-        color: var(--primary-text-color);
+        color: var(--third-color);
         font-weight: var(--fw-bold);
         position: relative;
 }
@@ -24,7 +24,7 @@
 .navBar_menuItem::after{
     content: "";
     position: absolute;
-    background-color: var(--primary-text-color);
+    background-color: var(--third-color);
 
     height: 3px;
     width: 0;

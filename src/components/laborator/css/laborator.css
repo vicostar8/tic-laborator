@@ -74,3 +74,16 @@
 .lab-foldere-note{
     border: 3px solid var(--secondary-color);
 }
+
+/* AJUTOR */
+
+.lab-foldere-ajutor{
+    /* border: 5px solid var(--primary-color); */
+}
+
+.lab-foldere-ajutor-titlu{
+    background-color: var(--secondary-color);
+    color: var(--third-color);
+}
+
+.lab-foldere-ajutor-item{border: 5px solid var(--secondary-color);}

@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/tic-laborator/static/css/main.1fd8991c.css",
-    "main.js": "/tic-laborator/static/js/main.3575feff.js",
+    "main.css": "/tic-laborator/static/css/main.688d1e7b.css",
+    "main.js": "/tic-laborator/static/js/main.df912d9d.js",
     "static/js/787.3b7884d1.chunk.js": "/tic-laborator/static/js/787.3b7884d1.chunk.js",
+    "static/media/Move_Folder.gif": "/tic-laborator/static/media/Move_Folder.252ea2b618a840ed4fe8.gif",
+    "static/media/Copy_Folder.gif": "/tic-laborator/static/media/Copy_Folder.bd7ab042b7005c62d19c.gif",
+    "static/media/Rename_Folder.gif": "/tic-laborator/static/media/Rename_Folder.bfa0243cded024c63a60.gif",
+    "static/media/Create_Folder.gif": "/tic-laborator/static/media/Create_Folder.568566b374bcb8e40ba8.gif",
+    "static/media/Delete_Folder.gif": "/tic-laborator/static/media/Delete_Folder.3e48718e603d309d1e48.gif",
+    "static/media/Select_Folder.gif": "/tic-laborator/static/media/Select_Folder.5c91141d436348cc363c.gif",
     "index.html": "/tic-laborator/index.html",
-    "main.1fd8991c.css.map": "/tic-laborator/static/css/main.1fd8991c.css.map",
-    "main.3575feff.js.map": "/tic-laborator/static/js/main.3575feff.js.map",
+    "main.688d1e7b.css.map": "/tic-laborator/static/css/main.688d1e7b.css.map",
+    "main.df912d9d.js.map": "/tic-laborator/static/js/main.df912d9d.js.map",
     "787.3b7884d1.chunk.js.map": "/tic-laborator/static/js/787.3b7884d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fd8991c.css",
-    "static/js/main.3575feff.js"
+    "static/css/main.688d1e7b.css",
+    "static/js/main.df912d9d.js"
   ]
 }

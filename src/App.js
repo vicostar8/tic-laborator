@@ -21,7 +21,7 @@ function App() {
           </Route>
           <Route path="/contact" element={<h3>CONTACT</h3>} />
           {/* UKRAINE */}
-          <Route path="/lab-ukr" element={<LaboratorUkraine />} />
+          <Route path="/ukraineLab" element={<LaboratorUkraine />} />
         </Routes>
       </div>
     </div>

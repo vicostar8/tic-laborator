@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tic-laborator/static/css/main.688d1e7b.css",
-    "main.js": "/tic-laborator/static/js/main.d8300829.js",
+    "main.js": "/tic-laborator/static/js/main.a818df1c.js",
     "static/js/787.3b7884d1.chunk.js": "/tic-laborator/static/js/787.3b7884d1.chunk.js",
     "static/media/Move_Folder.gif": "/tic-laborator/static/media/Move_Folder.252ea2b618a840ed4fe8.gif",
     "static/media/Copy_Folder.gif": "/tic-laborator/static/media/Copy_Folder.bd7ab042b7005c62d19c.gif",
@@ -11,11 +11,11 @@
     "static/media/Select_Folder.gif": "/tic-laborator/static/media/Select_Folder.5c91141d436348cc363c.gif",
     "index.html": "/tic-laborator/index.html",
     "main.688d1e7b.css.map": "/tic-laborator/static/css/main.688d1e7b.css.map",
-    "main.d8300829.js.map": "/tic-laborator/static/js/main.d8300829.js.map",
+    "main.a818df1c.js.map": "/tic-laborator/static/js/main.a818df1c.js.map",
     "787.3b7884d1.chunk.js.map": "/tic-laborator/static/js/787.3b7884d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.688d1e7b.css",
-    "static/js/main.d8300829.js"
+    "static/js/main.a818df1c.js"
   ]
 }

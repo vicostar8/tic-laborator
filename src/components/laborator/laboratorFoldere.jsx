@@ -1,5 +1,5 @@
 import React from "react";
-import LaboratorUkraine from "./components/laborator/laboratorUkraine";
+import LaboratorUkraine from "./laboratorUkraine";
 
 import select_folder from "../../images/Select_Folder.gif";
 import create_folder from "../../images/Create_Folder.gif";

@@ -3,7 +3,10 @@ import React from "react";
 const LaboratorUkraine = () => {
   return (
     <>
-      <div className="row m-0 text-white">
+      <div className="lab-foldere-ajutor-titlu text-center fw-bold fs-3 p-2 mb-3">
+        {`УКРАЇНСЬКА`.toUpperCase()}
+      </div>
+      <div className="row m-0">
         <div className="fs-4 fw-semibold">
           Уважно прочитайте інструкцію (Ви можете скористатися Інтернетом, якщо
           ви забули, як: вибрати, створити, перейменувати, видалити, копіювати,

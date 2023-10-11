@@ -19,8 +19,6 @@ function App() {
             <Route path=":clasa" element={<LaboratorPage />} />
           </Route>
           <Route path="/contact" element={<h3>CONTACT</h3>} />
-          {/* UKRAINE */}
-          {/* <Route path="/ukraineLab" element={<LaboratorUkraine />} /> */}
         </Routes>
       </div>
     </div>

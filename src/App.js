@@ -3,7 +3,6 @@ import { Router, Routes, Route } from "react-router-dom";
 import NavigationBar from "./components/navigationBar/navigationBar";
 import LaboratorMainPage from "./components/laborator/laboratorMainPage";
 import LaboratorPage from "./components/laborator/laboratorPage";
-import LaboratorUkraine from "./components/laborator/laboratorUkraine";
 
 import "./App.css";
 
@@ -21,7 +20,7 @@ function App() {
           </Route>
           <Route path="/contact" element={<h3>CONTACT</h3>} />
           {/* UKRAINE */}
-          <Route path="/ukraineLab" element={<LaboratorUkraine />} />
+          {/* <Route path="/ukraineLab" element={<LaboratorUkraine />} /> */}
         </Routes>
       </div>
     </div>

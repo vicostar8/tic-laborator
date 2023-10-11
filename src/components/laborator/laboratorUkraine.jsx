@@ -1,12 +1,5 @@
 import React from "react";
 
-import select_folder from "../../images/Select_Folder.gif";
-import create_folder from "../../images/Create_Folder.gif";
-import rename_folder from "../../images/Rename_Folder.gif";
-import delete_folder from "../../images/Delete_Folder.gif";
-import copy_folder from "../../images/Copy_Folder.gif";
-import move_folder from "../../images/Move_Folder.gif";
-
 const LaboratorUkraine = () => {
   return (
     <>
